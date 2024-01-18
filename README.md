@@ -1,1 +1,1 @@
-# html-css-exercises
+# HTML, CSS Exercises (Brushup)
